@@ -1,0 +1,1 @@
+This project contains basic exercises for developping git habilities. 
