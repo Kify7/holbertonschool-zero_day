@@ -1,0 +1,5 @@
+# files
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
